@@ -7,10 +7,15 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Cmoremore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="Vini-Cmoremore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=207939707780724495" >
 </div>
   
   ##
+
  
 <div> 
   
