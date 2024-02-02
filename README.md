@@ -1,7 +1,7 @@
 ## Hi, I'm Vini!✌🏻
 
 <div><br>
-  <p>⚙️ Computer Engineering 4/10</p>
+  <p>⚙️ Computer Engineering 5/10</p>
   <p>🏴 Brazil</p>
   <img src="https://cdn.discordapp.com/attachments/937828079257149470/1119873684023287860/8dd176c04a07c37b80a640dbc73382ff.gif" height="10%" width="10%">
 </div>
