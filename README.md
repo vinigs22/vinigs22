@@ -6,7 +6,7 @@
   <img src="https://cdn.discordapp.com/attachments/937828079257149470/1119873684023287860/8dd176c04a07c37b80a640dbc73382ff.gif" height="10%" width="10%">
 </div>
  
-<div style="display: inline_block"><br>
+/*<div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img <img align="center" alt="Vini-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +23,7 @@
 
 
 
-</div>
+</div>*/
 
 
   
