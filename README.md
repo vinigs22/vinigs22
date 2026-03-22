@@ -1,8 +1,7 @@
 #  Vinícius Gonçalves Simoni
 
+ 💻 Full Stack Developer
  🎓 **Computer Engineering @ Inatel (9/10)**  
-
-
 
 
 ## 🌐 Conecte-se comigo
